@@ -1,4 +1,7 @@
-git commit
+git add Quest_0.command_history
+git add Quest_1.command_history
+git add Quest_2.command_history
+git commit -m "done"
 git config --global user.email "eoirjgoarog@sgsn"
 git config --global user.name "b3m4r" 
 commit 246811a30b00dfef204ca008a66d368fbaf57296
