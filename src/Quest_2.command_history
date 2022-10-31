@@ -1,0 +1,4 @@
+git commit
+git config --global user.email "eoirjgoarog@sgsn"
+git config --global user.name "b3m4r"
+git log 
