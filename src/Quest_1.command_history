@@ -1,2 +1,8 @@
 git clone git@github.com:b3m4r/Day_01.git
 git checkout -b develop_bezhin
+cd Day_01
+cd src
+touch  Quest_0.command_history Quest_1.command_history
+history 20
+vim  Quest_1.command_history
+vim  Quest_0.command_history
